@@ -1,1 +1,1 @@
-# L-HRNet
+# S-HRNet
